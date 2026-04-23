@@ -2,6 +2,7 @@
 
 A Python-based backtesting engine implementing a Golden Cross / Death Cross 
 moving average crossover strategy on historical stock data.
+Configurable for any publicly traded ticker by updating the TICKER variable.
 
 ## Strategy
 - **Buy signal** — 50-day SMA crosses above 200-day SMA (Golden Cross)
