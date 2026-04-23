@@ -18,7 +18,7 @@ moving average crossover strategy on historical stock data.
 | Max Drawdown | -43.33% |
 
 ## Visualisation
-![Backtest Results](phase4_visualisation.png)
+![Backtest Results](visualisation.png)
 
 ## Tech Stack
 - Python, pandas, numpy, matplotlib, yfinance
